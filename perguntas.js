@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matemática',
+    'O que é anagrama?',
+    'O anagrama é um jeito diferente de organizar uma palavra, senha, entre outro'
 )
 
-criaCartao(
+criaCartao
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital do Brasil?',
+    'A capital do brasil é brasilia'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+'Como se diz "eu estou bem" Inglês?',
+    'Oi em ingles é "I am fine"'
 )
